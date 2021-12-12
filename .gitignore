@@ -1,6 +1,2 @@
-.vs/
-AuthotizationBasics.Base/bin/
-AuthotizationBasics.DB/bin/
-AuthotizationBasics.Identity/bin/
-AuthotizationBasics.JwtBearer/bin/
-AuthotizationBasics.Roles/bin/
+.vs
+AuthotizationBasics.?/bin
